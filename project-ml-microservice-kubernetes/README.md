@@ -23,9 +23,16 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 
 ---
 
+## Prerequisites
+* Python 3 and pip installed
+* make commands are supported
+* Docker installed
+* kubectl and minikube installed
+* hadolint installed
+
 ## Setup the Environment
 
-* Create a virtualenv and activate it
+* Create a virtualenv and activate it: `make setup` and then `source ~/.devops/bin/activate`
 * Run `make install` to install the necessary dependencies
 
 ### Running `app.py`
