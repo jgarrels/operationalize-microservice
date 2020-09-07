@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![jgarrels](https://circleci.com/gh/jgarrels/operationalize-microservice.svg?style=svg)](https://app.circleci.com/pipelines/github/jgarrels/operationalize-microservice)
 
 ## Project Overview
 
