@@ -13,6 +13,8 @@ COPY . app.py /app/
 # Install packages from requirements.txt
 # hadolint ignore=DL3013
 RUN pip install --upgrade pip &&\
+        pip install wheel &&\
+        pip install --upgrade pylint &&\
 		pip install -r requirements.txt
 
 ## Step 4:
