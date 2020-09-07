@@ -1,8 +1,7 @@
 ## Cloud DevOps ND - C4- Microservices at Scale using AWS & Kubernetes - Supporting Material and Project Starter
 
 This repository is associated with Cloud DevOps ND - Course 04 - Microservices at Scale using AWS & Kubernetes. In here, you'll find:
-1. Supporting material used in the video demonstration in the course 
-1. Starting code for a project, in which you can containerize and deploy a machine learning srevice using Kubernetes.
+The project Operationalize a Machine Learning Microservice API (see ./project-ml-microservice-kubernetes/README.md)
 
 ---
 
